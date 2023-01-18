@@ -15,6 +15,5 @@ run_once("picom")           -- Compositor
 run_once("lxsessions")      -- PolKit
 run_once("nm-applet")       -- NetworkManager
 run_once("flameshot")       -- Screenshot tool2
-run_once("pasystray")       -- PulseAudio
-run_once("redshift")        -- Night light
-run_once("clight")          -- Screen brightness
+run_once("redshift-gtk")    -- Redshift tool
+run_once("clight")          -- Brightness
